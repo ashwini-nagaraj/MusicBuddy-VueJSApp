@@ -3,27 +3,25 @@ This simple music artistics catalogue app performs simple CRUD operations using 
 
 ### Let's begin !! ###
                         
-![image]((https://user-images.githubusercontent.com/97677773/151788928-505fb947-9da4-4efe-8cb7-4618a77e9312.png))
+![image](https://user-images.githubusercontent.com/97677773/151790520-c45980e4-2bce-4bf1-81ef-cd8003c1fbfe.png)
 
 #### Initial screen of the catalogue ####
 
 
-![image]((https://user-images.githubusercontent.com/97677773/151789891-8c7d4289-5728-4726-9652-94bdcf405e26.png))
+![image](https://user-images.githubusercontent.com/97677773/151790581-4d0b0dda-fce6-43ff-99e7-c76f01fe3404.png)
 
 #### Scrollable grid view   ####
 
-![image]((https://user-images.githubusercontent.com/97677773/151789723-a5ae8ead-130f-49ee-aef9-0ba6fe64b188.png))
+![image](https://user-images.githubusercontent.com/97677773/151790641-4d078f67-e734-47cf-a5bb-9da34d95c531.png)
 
 #### On clicking on one of the artist takes you to artists details ####
 
-![image]((https://user-images.githubusercontent.com/97677773/151789802-266cca4b-e96c-4c43-b2e8-53c0c6a05d1a.png))
+![image](https://user-images.githubusercontent.com/97677773/151790687-ef1bfed4-f77e-4c37-837a-38afa507cd37.png)
 
 #### Edit Screen ####
 
-![image]((https://user-images.githubusercontent.com/97677773/151789994-a8c36657-28b9-4783-a7de-61d5b5aa3f3a.png))
+![image](https://user-images.githubusercontent.com/97677773/151790784-bd50656d-2603-4c19-99f5-02ee83488cb6.png)
 
-#### Error message after deleteing an item ####
-
-![image]((https://user-images.githubusercontent.com/97677773/151790069-e13b3350-b1e3-4669-9285-24e29358759f.png))
 
 #### Add artist form ####
+
