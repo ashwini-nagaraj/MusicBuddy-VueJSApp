@@ -24,7 +24,7 @@
                    <v-card-subtitle>
            <ul>
     <li>
-        <a v-bind:href="poster.topThreeSongs">Top Fav Song</a>
+        <a v-bind:href="poster.topThreeSongs" :target="_blank">Top Fav Song</a>
         
     </li>
   </ul>
