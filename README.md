@@ -1,5 +1,5 @@
 # Music artists catalogue app using vue js, express js, node js and Mongo DB:
-This simple Vue app performs simple CRUD operations using node.js, express.js and Mongo DB as backend.
+This simple app performs CRUD operations using node.js, express.js and Mongo DB as backend.
 
 ### Let's begin !! ###
                         
